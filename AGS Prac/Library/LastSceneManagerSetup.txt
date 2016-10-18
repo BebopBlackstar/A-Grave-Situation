@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/michael.gackle/Documents/A-Grave-Situation-ENDLESS/AGS - Endless/Assets/Adjusted
+    Prototype.unity
+  isLoaded: 1
+  isActive: 1
